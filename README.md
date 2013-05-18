@@ -9,6 +9,8 @@ Přístupové kódy
 
 ## Hodnocení
 
-Zatím neohodnoceno
+19.5/20
 
 ### Chyby
+
+ * -0.5 ?
